@@ -1,0 +1,27 @@
+main>.container {
+    padding: 30px 0;
+}
+
+.form-login {
+    max-width: 350px;
+}
+
+.producto-desactivado {
+    font-style: italic;
+    font-weight: bold;
+    color: #999; /* Puedes ajustar el color según tus preferencias */
+}
+
+/* Estilo para el contorno de las imágenes */
+.img-contorno {
+    border: 100px solid black; /* Ajustamos el grosor del borde a 2 píxeles */
+    padding: 500px; /* Añadimos un poco de espacio alrededor de la imagen para separar el borde */
+}
+
+/* Estilo para el contorno circular de las imágenes */
+.img-circular {
+    border-radius: 50%; /* Hace que la imagen tenga bordes redondeados */
+}
+
+
+
